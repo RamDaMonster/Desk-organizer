@@ -1,5 +1,7 @@
 Desk Organizer
 
+Link for public Onshape: https://cad.onshape.com/documents/906f9562609c1f264a935719/w/a034fe6070e4b73d87a3e305/e/d86d24ca23df5ddd2b78a394?renderMode=0&uiState=6a4fc76abd0df23c4877d065
+
 This is a customizable 3D-printed desk organizer designed in Onshape. It features a variety of slots and compartments to keep your everyday items neat and easily accessible.
 
 The organizer features multiple storage compartments, has space for a personal wireless charging station, and a phone stand supported by two cat figures(ITS BATTLE CATS!!!). The goal of this project was to practice CAD design while creating something useful for everyday use.
